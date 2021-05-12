@@ -1,5 +1,5 @@
 {
     "redirects": [
-      { "source": "*", "destination": "/profile.html" }
+      { "source": "/(.*)", "destination": "/profile.html" }
     ]
   }
